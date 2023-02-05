@@ -1,0 +1,10 @@
+# This should be ignored
+This
+should
+not
+# yeah
+
+the
+total
+is
+7
